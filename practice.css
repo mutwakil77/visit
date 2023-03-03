@@ -28,7 +28,7 @@ p {
 .container {
     padding: 10px;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     margin: 0 auto;
 }
 .content {

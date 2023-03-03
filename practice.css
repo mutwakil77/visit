@@ -9,7 +9,7 @@ body {
     font-family: 'Tilt Warp', cursive;
 }
 .header-img {
-    width: 
+    width: 100%;
     background-size: cover;
 }
 .main {
